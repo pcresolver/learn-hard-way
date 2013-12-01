@@ -1,4 +1,3 @@
-#29 November 2013
 x = "There are %d types of people." % 10 # puts the number 10 in the string
 binary = "binary keyword"
 do_not = "don't"
