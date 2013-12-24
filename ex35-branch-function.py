@@ -47,7 +47,8 @@ def cthulhu_room() :
     if "flee" in next:
         start()
     elif "head" in next :
-        dead("Well that was tasty")
+       
+       dead("Well that was tasty")
     else:
         cthulhu_room()
         
